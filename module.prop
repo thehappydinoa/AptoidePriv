@@ -1,9 +1,9 @@
 id=AptoidePriv
 name=AptoidePriv
-version=v1.0.1
+version=v1.0.2
 versionCode=12302017
 author=thehappydinoa
 description=Make Aptoide a Privileged App
-minMagisk=1000
-support=https://github.com/thehappydinoa/AptoidePriv
-donate=thehappydinoa@gmail.com on PayPal or 1AVkMhJ1oJXHg4jZnY7k1L4RHgzXQKi36G BTC
+minMagisk=1400
+support=https://github.com/thehappydinoa/AptoidePriv/issues
+donate=https://github.com/thehappydinoa
