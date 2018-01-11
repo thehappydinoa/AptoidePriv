@@ -3,7 +3,7 @@ This is a Magisk module to make Aptoide a privileged app systemlessly.
 
 ## Notes
 
-- Requires Magisk 10+
+- Requires Magisk 14+
 - Installs Aptoide 8.6.0.1
 
 ## Links
